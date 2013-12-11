@@ -66,44 +66,33 @@ på några sådana regler?
 För att säkerställa att webbplatsen ser likadan ut på olika plattformar, operativsystem och webbläsare, och hjälpmedel 
 kan visa innehållet på ett meningsfullt sätt, är standardformatet valde att i följt publicera.
 
-Se också till att elementen är märkta med korrekta taggar. Till exempel HTML rubriker märkta som <h1> </ h1 > 
-( h1 ... H6 ) . För att göra textinnehållläsbart och förståeligt.
-
-Datatabeller bör märkas som <table> och webbredaktörer för att kunna lägga till beskrivningar till de datatabeller 
-via <caption> . Rubriker för kolumner och rader bör definieras med hjälp <th> och kanske " header -ID " och 
-" omfattning ". Om en komplex datatabell måste förklara för användare med skärmläsare, så detta bör göras genom 
-" Sammanfattning ".
-
-När vi skriver in text , till webbredaktörer betona med <strong> och <em>. När formulärelement används en etikett 
-uttryckligen kopplat till varje kontroll -och formelement som tillhör samma grupp ska monteras.
-
 En webbutveklare eller programmerare måste ...
-... aldrig skapa eller distribuera skadlig kod dvs (Malware).
-... aldrig skriva kod som är förvrängd eller avsiktligt svåra att följa dvs (Obfuscation).
-... aldrig skriva dokumentation som är avsiktligt förvirrande eller felaktig.
-... aldrig återanvända upphovsrättsskyddade kod, om inte rätt licens köps eller tillstånd erhålls.
-... erkänner (i tal och källkod kommentarer) arbetet i andra programmerare som koden bygger på, även om väsentliga 
+- aldrig skapa eller distribuera skadlig kod dvs (Malware).
+- aldrig skriva kod som är förvrängd eller avsiktligt svåra att följa dvs (Obfuscation).
+- aldrig skriva dokumentation som är avsiktligt förvirrande eller felaktig.
+- aldrig återanvända upphovsrättsskyddade kod, om inte rätt licens köps eller tillstånd erhålls.
+- erkänner (i tal och källkod kommentarer) arbetet i andra programmerare som koden bygger på, även om väsentliga 
 ändringar görs.
-... aldrig skriva kod som är avsiktligt ineffektivt med avsikt att senare kräva kredit för att göra effektiviseringar.
-... aldrig avsiktligt introducera bugs med avsikt att senare kräva kredit för fastställande av buggar, eller för att 
+- aldrig skriva kod som är avsiktligt ineffektivt med avsikt att senare kräva kredit för att göra effektiviseringar.
+- aldrig avsiktligt introducera bugs med avsikt att senare kräva kredit för fastställande av buggar, eller för att 
 stimulera upptaget av senare versioner.
-... aldrig skriva kod som avsiktligt bryter en annan programmerare kod i syfte att höja sin status.
-... aldrig dölja kända hinder för projektets slutförande under någon fas av utveckling, speciellt konstruktionsfasen.
-... aldrig oärligt tona svårigheten att slutföra ett projekt.
-... rapportera olaglig verksamhet av arbetsgivaren.
-... aldrig förtala yrket.
-... aldrig falskt förneka förekomsten av buggar.
-... aldrig avslöja hemligheten företagens kunskap om en arbetsgivare.
-... aldrig acceptera ersättning från flera parter för samma arbete, om inte tillstånd ges.
-... aldrig utföra konkurrensarbeteutan arbetsgivarens vetskap.
-... aldrig dölja relevant information från andra medlemmar i utvecklingsgruppen.
-... aldrig dölja arbetsgivaren sitt ekonomiska intresse för utvecklingsresurser.
-... aldrig dölja eventuella intressekonflikter som kan påverka projektet.
-... aldrig söka extern vinst från ett projekt som finansierades av en andra part utan tillstånd. Om tillstånd ges för att 
+- aldrig skriva kod som avsiktligt bryter en annan programmerare kod i syfte att höja sin status.
+- aldrig dölja kända hinder för projektets slutförande under någon fas av utveckling, speciellt konstruktionsfasen.
+- aldrig oärligt tona svårigheten att slutföra ett projekt.
+- rapportera olaglig verksamhet av arbetsgivaren.
+- aldrig förtala yrket.
+- aldrig falskt förneka förekomsten av buggar.
+- aldrig avslöja hemligheten företagens kunskap om en arbetsgivare.
+- aldrig acceptera ersättning från flera parter för samma arbete, om inte tillstånd ges.
+- aldrig utföra konkurrensarbeteutan arbetsgivarens vetskap.
+- aldrig dölja relevant information från andra medlemmar i utvecklingsgruppen.
+- aldrig dölja arbetsgivaren sitt ekonomiska intresse för utvecklingsresurser.
+- aldrig dölja eventuella intressekonflikter som kan påverka projektet.
+- aldrig söka extern vinst från ett projekt som finansierades av en andra part utan tillstånd. Om tillstånd ges för att 
 sälja en produkt, bör arbetet diskonteras.
-... aldrig uppsåt skadar det anseende som en arbetsgivare eller medlemmar i utvecklingsgruppen.
-... aldrig förvränga sin kunskap , erfarenhet eller förmåga.
-... aldrig ta åt sig äran för andras arbete.
-... aldrig stjäla mjukvara , speciellt utvecklingsverktyg.
-... aldrig dölja bristerna i andra programmerare genom att skriva kod för dem och låta dem passera bort det som sitt eget arbete.
-... hålla sig uppdaterade om utvecklingen av området datavetenskap.
+- aldrig uppsåt skadar det anseende som en arbetsgivare eller medlemmar i utvecklingsgruppen.
+- aldrig förvränga sin kunskap , erfarenhet eller förmåga.
+- aldrig ta åt sig äran för andras arbete.
+- aldrig stjäla mjukvara , speciellt utvecklingsverktyg.
+- aldrig dölja bristerna i andra programmerare genom att skriva kod för dem och låta dem passera bort det som sitt eget arbete.
+- hålla sig uppdaterade om utvecklingen av området datavetenskap.
